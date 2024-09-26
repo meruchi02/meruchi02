@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meruchi02
+- 👋 Hi, I’m Ruchi
 - 👀 I’m interested in MS-SQL SERVER
 - 🌱 I’m currently learning about SQL Server 2022
 - 💞️ I’m looking to collaborate on new features and performance improvement ideas
